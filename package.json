@@ -1,0 +1,23 @@
+{
+  "name": "request_header_parser_microservice",
+  "version": "1.0.0",
+  "description": "Web service to get the IP address, language and operating system for your browser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzeuze/request_header_parser_microservice.git"
+  },
+  "author": "Egemen Can Uze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzeuze/request_header_parser_microservice/issues"
+  },
+  "homepage": "https://github.com/uzeuze/request_header_parser_microservice#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
